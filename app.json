@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "A simple Discordbot",
+  "repository": "https://github.com/sburke4747/ManagerBotActual",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "discord", "bot"],
+  "image": "heroku/nodejs"
+}
